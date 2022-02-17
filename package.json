@@ -1,0 +1,23 @@
+{
+  "name": "trybe-exercises-front-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "treinando.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carolina-mascarenhas/trybe-exercises-front-end.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carolina-mascarenhas/trybe-exercises-front-end/issues"
+  },
+  "homepage": "https://github.com/carolina-mascarenhas/trybe-exercises-front-end#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
